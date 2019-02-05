@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - hook
+  - eeliron
+  - TorskArea
+  - boat
+  - partner
+  - "erteb\xF8lle"
+  - Bounds
+  - torskTerritory
+  - destroyBasket
+  - tribeTerritory
+  - emptyBasket
+  - orca
+  - tribeBoat
+  - tribeTrigger
+  - flyingPelican
+  - pillar2
+  - pillar1
+  - pillar3
+  - pillar4
+  - pillar5
+  - eelTerritory
+  - EelArea
+  - "bj\xF8rnholm"
+  - paddle
+  - timer
+  - sealTerritory
+  - FlatfishArea
+  - pelicanTrigger
+  - basket
+  - turnAround
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Terrain
+  - TribeBoat
+  - ignoreCollision
+  - button
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
